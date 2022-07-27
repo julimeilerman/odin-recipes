@@ -1,0 +1,66 @@
+body{
+    background-color: rgba(127,55,55,80);
+}
+
+h1 {
+    font-weight: 850;
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: hsl(2, 37%, 80%);
+}
+#main-title{
+    font-size: 70px;
+    font-weight: 1000;
+    text-align: center;
+}
+
+.link{
+    color: black;
+     text-align: center;
+}
+.button-link{
+    font-size: 25px;
+    font-weight: bold;
+    background-color:hsl(2, 37%, 80%);
+    color: white;
+}
+
+img#carbonara {
+    height: auto;
+    width: 400px;
+}
+
+img#muffuletta{
+    height: auto;
+    width: 250px;
+}
+
+.subtitle{
+    font-size:20px;
+    font-weight: bolder;
+    background-color:hsl(2, 37%, 80%);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.description{
+    font-size: 18px;
+    color:hsl(2, 37%, 80%);
+    text-align: center;
+    font-weight: bold;
+}
+
+strong,
+h4{
+    color: hsl(2, 37%, 80%);
+    font-weight: 600;
+}
+
+ul li{
+    text-align: center;
+    color:hsla(0, 100%, 100%,60% );
+}
+
+ol li p{
+    color: white;
+}
